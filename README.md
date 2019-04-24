@@ -1,43 +1,6 @@
-# binf630hw2.github.io
-BINF 630 Homework 2
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>BINF630_hw2</title>
-    <style type="text/css">
-.auto-style5 {
-	text-decoration: underline;
-}
-.auto-style6 {
-	text-align: left;
-}
-.auto-style7 {
-	color: #0000FF;
-}
-.auto-style9 {
-	color: #008000;
-}
-.auto-style10 {
-	color: rgb(255, 0, 0);
-}
-.auto-style1 {
-	color: #E8BD2E;
-	}
-.auto-style12 {
-	color: #800080;
-}
-.auto-style13 {
-	font-size: medium;
-	text-decoration: underline;
-}
-.auto-style14 {
-	margin-left: 80px;
-}
-</style>
+# BINF 630 Homework 2
     </head>
   <body>
-    <div class="auto-style6"><strong>BINF630 Homework 2</strong><br>
         <em>Chih Hao Huang</em><br>
       <br>
       <div align="left">
