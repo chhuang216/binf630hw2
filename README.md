@@ -1,5 +1,4 @@
 # BINF 630 Homework 2
-    </head>
   <body>
         <em>Chih Hao Huang</em><br>
       <br>
